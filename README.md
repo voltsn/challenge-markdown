@@ -7,7 +7,7 @@
 
 | Birthday | Gender | Favorite color | Favorite food | Pinneapple on pizza |
 |----------|--------|----------------|---------------|---------------------|
-|  24/09   |   M    |   Royal Blue   |   Pastitsio   |  - [x] Yes \| No    |
+|  24/09   |   M    |   Royal Blue   |   Pastitsio   | <ul><li>-  [x] Yes</li></ul> <br> <ul><li>- [ ] No </li></ul>|
 
 
 ## Hobbies
