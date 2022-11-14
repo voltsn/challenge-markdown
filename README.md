@@ -4,10 +4,10 @@
 ![me](./assets/arno.jpg)
 
 ## I am an avid fan of dark humor. 
-| Birthday | Gender | Favorite color | Favorite food | Pinneapple on pizza |
 
+| Birthday | Gender | Favorite color | Favorite food | Pinneapple on pizza |
 |----------|--------|----------------|---------------|---------------------|
-|  24/09   |   M    |   Royal Blue   |   Pastitsio   |        - [x]        |
+|  24/09   |   M    |   Royal Blue   |   Pastitsio   | [:heavy_check_mark:]|
 
 
 ## Hobbies
