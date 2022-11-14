@@ -1,34 +1,31 @@
-Your name (big header)
-In italics an inspirational quote
-A photo of yourself. Keep it professional!
+# Arno N. Volts
+> _I have not failed. I've just found 10,000 ways that won't work_ - _**Thomas Edison**_
 
-Me, in one sentence (smaller header)
+![me](./assets/arno.jpg)
 
-Create a table with the following structure:
+## I am an avid fan of dark humor. 
+| Birthday | Gender | Favorite color | Favorite food | Pinneapple on pizza |
+|----------|--------|----------------|---------------|---------------------|
+|  24/09   |   M    |   Royal Blue   |   Pastitsio   |       - [x]         |
 
-Birthday: dd/mm
-Gender: ?
-Favorite color: ?
-Favorite food: ?
-Pinneapple on pizza: Yes/No (Extra challenge: make it look like a (un)checked checkbox)
 
-Hobbies (smaller header)
-This should contain a bullet list of your hobbies.
-At least on item should contain a sublist, for example if you like movies, maybe make a sublist of some movies you really like.
+## Hobbies
+- Movies
+    - Back To The Future
+    - Three Thousand Years Of Longing
+    - Blade Runner 2077
+- Running
 
-You can always count on me when (smaller header)
-Tell your teammates which positive contribution to the group you will make.
-This could be technical, making people feel comfortable, being an organiser...
+## You can always count on me when
+You need to debug code, I love bug hunting :grin:.
 
-A funny story (smaller header)
-Tell a short funny story about your life.
+## A funny story
+This happend when I was 14 years old. My parents left me home alone with my little sister who at the time was only 2. 
+Shes was running around the house, doing what 2 year olds do, at some everything gets quite. 
+Worried I start looking for her, I am calling her name but I get no response. At that point I am panicking a bit, suddenly I hear noise comming from underneath my desk.
+I take look... There shes is... Looking me straight in the eyes... That's when she decided to take a number two... 
 
-TL;DR (even smaller header, under funny story)
-Summerise your funny story in one short sentence.
+### TL;DR
+I was babysitting my 2 yeard old sister, thought she got hurt, but was busy taking a number two underneath my desk. 
 
-At the bottom of the page there should be a next and previous link, this should link to the page of the previous student (alphabetically) and the next one.
-Organise yourself so it is easy to know who you should link to.
-
-The links should have the following structure:
-
-<< previous || YOUR NAME || next >>
+<< [previous](https://github.com/nathvda/) || Arno Volts || [next](https://github.com/A-Mariaule) >>
