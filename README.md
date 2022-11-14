@@ -4,9 +4,10 @@
 ![me](./assets/arno.jpg)
 
 ## I am an avid fan of dark humor. 
-| Birthday | Gender | Favorite color | Favorite food | Pinneapple on pizza  |
-|----------|--------|----------------|---------------|----------------------|
-|  24/09   |   M    |   Royal Blue   |   Pastitsio   | [:heavy_check_mark:] |
+| Birthday | Gender | Favorite color | Favorite food | Pinneapple on pizza |
+
+|----------|--------|----------------|---------------|---------------------|
+|  24/09   |   M    |   Royal Blue   |   Pastitsio   |        - [x]        |
 
 
 ## Hobbies
@@ -17,7 +18,7 @@
 - Running
 
 ## You can always count on me when
-You need to debug code, I love bug hunting :grin:.
+You need to debug code, I love bug hunting.
 
 ## A funny story
 This happend when I was 14 years old. My parents left me home alone with my little sister who at the time was only 2. 
